@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ruzK5JD9Nw09wWa88RowvZ+zcAnZEUVs7kVroOsR+3zzt4ahXpaU1rkKMLNdpe2xaer+aSueSgIAa8F5hVguzw==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\code_that_can_fit_In_your_head\\RestaurantOrderingSystem\\RestaurantOrderingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erion\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Erion\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Erion\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Erion\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Erion\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Erion\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
